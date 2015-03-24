@@ -1,0 +1,3 @@
+EXPORTS
+    Java_advprogclasses_JniSum_calculateSum = Java_advprogclasses_JniSum_calculateSum@16 @1
+    Java_advprogclasses_JniSum_calculateSum@16 @2
